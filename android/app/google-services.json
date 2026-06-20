@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68607038122",
+    "project_id": "genbarber",
+    "storage_bucket": "genbarber.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68607038122:android:7d9afe6bdc1f562fb4f6d3",
+        "android_client_info": {
+          "package_name": "com.genbarber.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDafDSESeJ3emiLH-vlaBmuBKeNEXmP_PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
