@@ -88,5 +88,14 @@ lib/
 └── widgets/          # Componentes reutilizáveis
 ```
 
+## 👥 Desenvolvedores
+
+---
+| Jaelson Dias |
+| Sayan Bruno  |
+
+Estudantes da Universidade do Estado do Rio Grande do Norte ( UERN ).
+---
+
 ---
 
