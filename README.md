@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/images/splash_screen.png" alt="GenBarber Splash Screen" width="220"/>
-</p>
 
 <h1 align="center">GenBarber 💈</h1>
 
@@ -38,14 +35,6 @@ O **GenBarber** é um aplicativo mobile desenvolvido em Flutter que reúne barbe
 | **Provider** | Gerenciamento de estado (MVVM) |
 | **flutter_map** | Renderização de mapas (OpenStreetMap) |
 | **geolocator** | Localização do usuário |
-
----
-
-## 👥 Integrantes
-
-| Nome | Função |
-|---|---|
-| Jaelson | Desenvolvedor |
 
 ---
 
@@ -101,6 +90,3 @@ lib/
 
 ---
 
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins acadêmicos.
